@@ -16,8 +16,6 @@ This project contains an interactive Excel dashboard that visualizes bike purcha
 
 ## Key insights 
 
-## Key Insights
-
 ### Overall Purchase Patterns
 - ~50% of customers bought bikes  
 - Higher income = more bike purchases  
