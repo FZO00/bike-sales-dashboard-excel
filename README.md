@@ -40,6 +40,4 @@ This project contains an interactive Excel dashboard that visualizes bike purcha
  - **Car Owners**: 1-2 cars = most bike purchases
 - **Income Link**: More money = more bike buying
 - **Pacific Edge**: Strongest bike culture
-- **Car Owners**: 1-2 cars = most bike purchases
-- **Income Link**: More money = more bike buying
-- **Pacific Edge**: Strongest bike culture
+
